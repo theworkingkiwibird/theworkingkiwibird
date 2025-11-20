@@ -4,3 +4,6 @@
 ```bash
   i like being alone
 ```
+```bash
+  i like exploring
+```
